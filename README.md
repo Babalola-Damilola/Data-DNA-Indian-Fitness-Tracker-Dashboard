@@ -1,1 +1,2 @@
 # Data-DNA-Indian-Fitness-Tracker-Dashboard
+The objective of this Indian fitness tracker product project is to determine the demand for fitness trackers in the Indian market, identify the top 5 brands for fitness bands and smartwatches, explore the correlation between prices and product specifications, ratings, and examine different types of fitness trackers and their price segments for various users.
